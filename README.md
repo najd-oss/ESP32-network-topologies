@@ -1,5 +1,7 @@
 # ESP32-network-topologies
-Star and mesh networking using ESP32
+**Star and mesh networking using ESP32**
+<img width="6933" height="3837" alt="Untitled-2026-05-11-1203 excalidraw" src="https://github.com/user-attachments/assets/ec66233f-c85b-44b8-ac0f-95b8063a7172" />
+
 
 ## Communication Protocol: ESP-NOW
 ## Why ESP-NOW?
