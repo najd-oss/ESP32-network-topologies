@@ -1,7 +1,9 @@
 # ESP32-network-topologies
 **Star and mesh networking using ESP32**
-<img width="6933" height="3837" alt="Untitled-2026-05-11-1203 excalidraw" src="https://github.com/user-attachments/assets/ec66233f-c85b-44b8-ac0f-95b8063a7172" />
-![Network Topologies](image.png)[🔗 Click here to view the interactive diagram on Excalidraw](https://excalidraw.com/#json=2IsbfvT0doGSaMHnsUmfY,NW6nCtQx5wkHDsCAGJ51dQ)
+<img width="6933" height="3837" alt="Untitled-2026-05-11-1203 excalidraw" src="https://github.com/user-attachments/assets/5c25fa62-c9dd-44cf-9de7-0a8458e611a1" />
+
+![Network Topologies](image.png)[🔗 Click here to view the interactive diagram on Excalidraw]
+https://excalidraw.com/#json=qE5kvG8VOSdznT_zalB2e,8z-Vp25_1yTiEC37fDf2YA
 
 ## Communication Protocol: ESP-NOW
 ## Why ESP-NOW?
